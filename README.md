@@ -4,7 +4,7 @@
 	<br>
 	<br>
 	<br>
-	<a href="https://www.npmjs.com/package/bible-male-names">Bible-Female-Names</a>: get female names from <a href="https://www.google.com/search?q=The+Bible">The Bible</a>
+	<a href="https://www.npmjs.com/package/bible-female-names">Bible-Female-Names</a>: get female names from <a href="https://www.google.com/search?q=The+Bible">The Bible</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 $ npm install bible-female-names
 ```
 
-Names from [biblegateway.com](https://www.biblegateway.com/resources/all-men-bible/Alphabetical-Order-All-Men)
+Names from [biblegateway.com](https://www.biblegateway.com/resources/all-women-bible/Chapter-2-Alphabetical)
 
 # Usage
 
@@ -55,7 +55,7 @@ $ bible-female-names --help
 		$ bible-female-names
 		Elisabeth
 
-		$ bible-male-names --all
+		$ bible-female-names --all
 		Abi
 		Abia
 		Abiah
