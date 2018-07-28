@@ -1,0 +1,56 @@
+{
+  "name": "bible-female-names",
+  "version": "1.0.0",
+  "description": "📖 Get female names from the Bible 👗",
+  "main": "names.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/bible-female-names.git"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "bible-female-names.json"
+  ],
+  "keywords": [
+    "names",
+    "bible",
+    "bible-names",
+    "female",
+    "female-names",
+    "male-bible-names",
+    "bible-female-names",
+    "word",
+    "words",
+    "list",
+    "rand",
+    "human",
+    "cli",
+    "cli-app"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/bible-female-names/issues"
+  },
+  "homepage": "https://github.com/abranhe/bible-female-names#readme",
+  "devDependencies": {
+    "ava": "1.0.0-beta.6"
+  },
+  "dependencies": {
+    "consecutively-unique-array": "^1.0.0",
+    "meow": "^5.0.0",
+    "opn": "^5.3.0"
+  }
+}
